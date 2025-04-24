@@ -11,7 +11,6 @@ Before running the script, ensure you have the following installed:
 2. Google Chrome (Latest version) → Download from https://www.google.com/chrome/  
 3. ChromeDriver (Automatically managed using webdriver-manager)  
 4. Selenium Python Library  -> pip install selenium webdriver-manager (run this if selenium is not present in your PC)
-
 ------------------------------------------------------------
 📦 Installation  
 
